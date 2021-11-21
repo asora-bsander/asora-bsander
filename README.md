@@ -1,4 +1,4 @@
-Hi, I’m Boris Sander, co-founder and CTO of asora systems.
+Hi, I’m Boris Sander, co-founder and CTO of [asora systems](https://asora.systems).
 
 Since 2001, I am a contractor supporting enterprises to solve their software challenges in a cost effective way, with a focus on future-proof and robust system architectures.
 
